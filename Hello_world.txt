@@ -1,7 +1,4 @@
 Hello World!
-
 first change
 
 Second change (in local file)
-
-
